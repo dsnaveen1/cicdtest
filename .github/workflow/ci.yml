@@ -3,7 +3,7 @@ name: Run Tests and Push to GitHub
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   test:
